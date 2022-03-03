@@ -19,11 +19,11 @@ public class Wilder {
         return this.present;
     }
 
-    public void setFirstName() {
+    public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
 
-    public void setPresent() {
+    public void setPresent(boolean present) {
         this.present = present;
     }
 
