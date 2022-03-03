@@ -1,7 +1,7 @@
 # JavaQuest06
 SEA8 - Quest: Java 06: Object Oriented Programming
 
-Census of the Wild Code School!
+Challenge: Census of the Wild Code School!
 
 You will create a class that represents your classmates as best as you can!
 
